@@ -9,3 +9,5 @@ Step 4: Verify your account by solving a puzzle.
 Step 5: After you verify your account, select the Create account button.
 
 Step 6: Accout has been created.
+
+Step 7: Start using Github
