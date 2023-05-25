@@ -1,0 +1,9 @@
+Step 1: Open https://github.com in a web browser, and then select Sign up.
+
+Step 2: Enter your email address.
+
+Step 3: Create a password for your new GitHub account, and Enter a username, too.
+
+Step 4: Verify your account by solving a puzzle.
+
+Step 5: After you verify your account, select the Create account button.
